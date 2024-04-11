@@ -4,6 +4,10 @@ Use ColossalAI to fine-tune the Resnet18 with CIFAR10 dataset. All the experimen
 
 Due to Using Colab, Change the GPU number as 1.
 
+## Github Link
+
+https://github.com/OliverLi27/Resnet-fine-tuning-with-ColossalAI
+
 ## Model
 
 Resnet18
